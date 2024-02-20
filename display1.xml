@@ -1,0 +1,20 @@
+<?xml-stylesheet type="text/css" href="stud.css" ?>
+<html>
+<student_details>
+    <student>
+        <roll_no>0580</roll_no>
+        <name>Aaditya</name>
+        <phone_number>9502663840</phone_number>
+    </student>
+    <student>
+        <roll_no>0607</roll_no>
+        <name>Karthik</name>
+        <phone_number>9618763917</phone_number>
+    </student>
+    <student>
+        <roll_no>1114</roll_no>
+        <name>Siddarth</name>
+        <phone_number>9542756044</phone_number>
+    </student>
+</student_details>
+</html>

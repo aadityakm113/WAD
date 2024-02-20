@@ -1,0 +1,22 @@
+student{
+    display:block; margin-top:10px; color:Navy;
+}
+roll_number{
+    display:block; 
+    margin-left:10px;
+    font-size:14pt; 
+    color:Red;
+}
+name{
+    display:block; 
+    margin-left:20px;
+    font-size:14pt; 
+    color:Blue;
+}
+phone_number{
+    display:block; 
+    margin-left:20px;
+    font-size:12pt; 
+    color:Maroon;
+}
+    
